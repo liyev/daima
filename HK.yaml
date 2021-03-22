@@ -153,7 +153,6 @@ proxies:
 # 代理组策略
 # 策略组示例请查阅 Clash 项目 README 以使用最新格式：https://github.com/Dreamacro/clash/blob/master/README.md
 proxy-groups:
-
 # url-test 通过指定的 URL 测试并选择延迟最低的节点
 - name: "自动选择快速节点"
   type: url-test
