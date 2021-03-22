@@ -140,9 +140,9 @@ proxies:
 # Trojan
 - name: "trojan"
   type: trojan
-  server: server
+  server: hk.liye.host
   port: 443
-  password: password
+  password: youga1981
   # udp: true
   # sni: example.com # aka server name
   alpn:
